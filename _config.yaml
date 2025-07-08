@@ -11,6 +11,7 @@ markdown: kramdown
 paginate: 5
 paginate_path: "/:num/"
 date_format: "%b %-d, %Y"
+theme: Architect
 
 plugins:
   - jekyll-feed
