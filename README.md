@@ -1,0 +1,2 @@
+# blog
+DevSecOps - AI amplified
