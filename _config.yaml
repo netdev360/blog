@@ -1,0 +1,19 @@
+# Site information
+title: Mihai's Tech Blog
+email: mihai@ngnpath.com
+description: Journey into DevSecOps universe
+baseurl: ""
+url: ""
+
+# Site settings
+permalink: /:title/
+markdown: kramdown
+paginate: 5
+paginate_path: "/:num/"
+date_format: "%b %-d, %Y"
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
