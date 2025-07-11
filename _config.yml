@@ -1,0 +1,25 @@
+# Site information
+# Jekyll theme - Architect
+title: The Home Lab Chronicle
+email: mihai@ngnpath.com
+description: Transforming your passion into expertise
+baseurl: ""
+url: ""
+repository: example/example
+
+
+
+# Site settings
+permalink: /:title/
+markdown: kramdown
+paginate: 5
+paginate_path: "/:num/"
+date_format: "%b %-d, %Y"
+remote_theme: pages-themes/architect@v0.2.0
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
