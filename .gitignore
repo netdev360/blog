@@ -13,6 +13,8 @@ k8/
 docker/
 Dockerfile
 .dockerignore
+.jekyll-metadata
+
 
 # OS junk
 .DS_Store
