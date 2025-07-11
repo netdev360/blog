@@ -10,7 +10,7 @@ repository: example/example
 
 
 # Site settings
-permalink: /:title/
+#permalink: /:title/
 markdown: kramdown
 paginate: 5
 paginate_path: "/:num/"
